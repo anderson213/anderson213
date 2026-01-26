@@ -3,6 +3,7 @@
   <tr>
     <td style="vertical-align: top; border: none;">
       <h1>Olá! Eu sou o Anderson Oliveira 👋</h1>
+      <p>  Sempre gostei da área da programação desde os meus 8 anos, com a minha curiosidade de como os jogos que eu jogava funcionavam e hoje isso me trouxe até a Programação. No desejo por essa área vem sempre querer saber mais sobre Front e a minha dedicação para resolver problemas. </p>
       <ul>
         <li>🔭 Hoje estudo front-end</li>
         <li>🌱 Estudo análise e desenvolvimento de sistemas</li>
