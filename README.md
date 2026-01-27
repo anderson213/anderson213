@@ -5,7 +5,7 @@
       <h1>Olá! Eu sou o Anderson Oliveira 👋</h1>
       <p> Sempre gostei da área da programação desde os meus 8 anos, com a minha curiosidade de como os jogos que eu jogava funcionavam e hoje isso me trouxe até a Programação. No desejo por essa área vem sempre querer saber mais sobre Front e a minha dedicação para resolver problemas. Atualmente estou estudando como estudante de Curso Técnico em ADS, mas diariamente prefiro programar na parte de Front </p>
       <ul>
-        <li>🔭 Hoje estudo ADS</li>
+        <li>🔭 Area de atuaçao Front-end</li>
         <li>🌱 Estudo análise e desenvolvimento de sistemas</li>
         <li>📗 Contate-me no email: anderson.oliveira.frontdev@gmail.com</li>
         <li>😊 Pronouns: ele/dele</li>
