@@ -26,10 +26,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-lmihnd4s0.vercel.app/api?username=anderson213&show_icons=true&theme=radical" width="405"/>
+      <img src="https://github-readme-stats-nine-kappa-32.vercel.app/api?username=anderson213&show_icons=true&theme=radical" width="405"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-lmihnd4s0.vercel.app/api/top-langs/?username=anderson213&layout=compact&theme=radical&card_width=400" width="405"/>
+      <img src="https://github-readme-stats-nine-kappa-32.vercel.app/api/top-langs/?username=anderson213&layout=compact&theme=radical&card_width=400" width="405"/>
     </td>
   </tr>
 </table>
