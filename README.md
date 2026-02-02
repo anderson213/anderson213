@@ -14,7 +14,7 @@
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
     </td>
   </tr>
-  ![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
+  
 </table>
 
 <div style="display: inline_block"><br>
