@@ -2,7 +2,7 @@
   <tr>
     <td style="vertical-align: top; border: none;">
       <h1>Olá! Eu sou o Anderson Oliveira 👋</h1>
-      <p> Sempre gostei da área da programação desde os meus 8 anos, com a minha curiosidade de como os jogos que eu jogava funcionavam e hoje isso me trouxe até a Programação. No desejo por essa área vem sempre querer saber mais sobre Front e a minha dedicação para resolver problemas. Atualmente estou estudando como estudante de Curso Técnico em ADS, mas diariamente prefiro programar na parte de Front </p>
+      <p>Sempre gostei da área da programação desde os meus 8 anos, com a minha curiosidade de como os jogos que eu jogava funcionavam e hoje isso me trouxe até a Programação. No desejo por essa área vem sempre querer saber mais sobre Front e a minha dedicação para resolver problemas. Atualmente estou estudando como estudante de Curso Técnico em ADS, mas diariamente prefiro programar na parte de Front</p>
       <ul>
         <li>🔭 Área de atuação: Front-end</li>
         <li>🌱 Estudo: Análise e Desenvolvimento de Sistemas</li>
@@ -14,7 +14,6 @@
       <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150"/>
     </td>
   </tr>
-  
 </table>
 
 <div style="display: inline_block"><br>
@@ -27,22 +26,25 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats-nine-kappa-32.vercel.app/api?username=anderson213&show_icons=true&theme=radical" width="405"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=anderson213&show_icons=true&theme=radical" width="405"/>
     </td>
     <td>
-      <img src="https://github-readme-stats-nine-kappa-32.vercel.app/api/top-langs/?username=anderson213&layout=compact&theme=radical&card_width=400" width="405"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anderson213&layout=compact&theme=radical&card_width=400" width="405"/>
     </td>
   </tr>
 </table>
-<div> 
 
-<h3 align="left">ME Mande Uma Mensagem :)</h3>
+<div>
+  <h3 align="left">ME Mande Uma Mensagem :)</h3>
+  <a href="mailto:anderson.oliveira.frontdev@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6" />
+  </a>
+  <a href="https://www.linkedin.com/in/anderson-oliveira-2a8174387/">
+    <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6" />
+  </a>
+</div>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:anderson.oliveira.frontdev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/anderson-oliveira-2a8174387/)
-
-<h3 align="left"></h3>
-  <picture align="center">
+<picture align="center">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anderson213/anderson213/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anderson213/anderson213/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
