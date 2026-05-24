@@ -43,7 +43,17 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,python,react,js,html,css,tailwind,git,github,vscode&theme=dark&perline=12"/>
+<br/>
+
+**Domino bem**
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,html,css,git,github,vscode&theme=dark&perline=8"/>
+
+<br/><br/>
+
+**Aprendendo ativamente** *(usando em projetos reais agora)*
+
+<img src="https://skillicons.dev/icons?i=react,js,tailwind,postgres&theme=dark&perline=8"/>
 
 </div>
 
